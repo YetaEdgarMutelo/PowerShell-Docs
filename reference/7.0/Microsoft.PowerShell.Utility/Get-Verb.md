@@ -95,7 +95,7 @@ Cmdlet          Tee-Object      3.1.0.0    Microsoft.PowerShell.Utility
 
 ### -Group
 
-Gets only the specified groups. Enter the name of a group. Wildcards are not allowed.
+Gets the verb or verbs from the specified group or groups. Enter the name of a group. Wildcards are not allowed.
 
 This parameter was introduced in PowerShell 6.0.
 
